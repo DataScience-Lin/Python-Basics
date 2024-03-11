@@ -1,2 +1,1 @@
-1. Series:
-A Series is a one-dimensional labeled array capable of holding data of various types (e.g., integers, strings, floating-point numbers). It is essentially a labeled NumPy array. Here's an example of creating a Series:
+
